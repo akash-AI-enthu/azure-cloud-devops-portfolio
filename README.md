@@ -46,3 +46,8 @@ Git, GitHub, and Azure DevOps.
 No passwords, access tokens, private keys,
 or other credentials should be committed
 to this repository.
+
+## Daily Practice Progress
+
+- Day 8: Azure RBAC and Managed Identity.
+- Day 9: Git and GitHub fundamentals.
