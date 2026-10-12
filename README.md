@@ -52,6 +52,12 @@ to this repository.
 - Day 8: Azure RBAC and Managed Identity.
 - Day 9: Git and GitHub fundamentals.
 
+## Day 9 - Branch Practice
+
+- Created a feature branch.
+- Practiced isolated development.
+- Ready to submit a pull request.
+
 ## Git Workflow Practice
 
 - Created a feature branch.
